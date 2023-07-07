@@ -1,0 +1,6 @@
+let greet = (Edu) => {
+  console.log('welcome + ', Edu);
+}
+
+greet('onyinye')
+greet('kene')
