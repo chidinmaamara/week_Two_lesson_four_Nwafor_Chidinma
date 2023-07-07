@@ -1,2 +1,5 @@
+function greet() {
+    console.log("Hi, how are you doing?"); // @logs: Hi, how are you doing?
+}
 
-// Write something
+greet(); // @function call
